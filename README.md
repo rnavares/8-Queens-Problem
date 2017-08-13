@@ -2,4 +2,4 @@ Constraint Satisfaction Problems by implementing the N-Queens problem using symb
 
 To launch the notebook, run the following command from a terminal with anaconda3 installed and on the application path:
 
-    jupyter notebook AIND-Constraint_Satisfaction.ipynb
+    jupyter notebook 8-Queens.ipynb
